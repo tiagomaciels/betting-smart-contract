@@ -64,6 +64,11 @@ contract CPQD {
 
         emit CommitmentRevealed(value, salt);
     }
+    
+    // Função para obter resultados das apostas
+    function getBets(uint value) public view returns (address[] memory) {
+        return bets[value];
+    }
 
     // Função para obter vencedores (apenas após revelação)
     function getResults() public view returns (address[] memory) {
