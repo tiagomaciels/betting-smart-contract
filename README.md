@@ -1,4 +1,4 @@
-[2025] Como parte do treinamento de Criptografia Aplicada e Blockchain fornecido pela PUC-PR e CPQD, foi desenvolvido este contrato inteligente em um desafio prático do módulo de Princípios de Blockchain.
+[2025] Como parte da Residência Tecnológica em Criptografia Aplicada e Blockchain fornecido pela PUC-PR e CPQD, foi desenvolvido este contrato inteligente em um desafio prático do módulo de Princípios de Blockchain. 
 
 # Betting Smart Contract
 
